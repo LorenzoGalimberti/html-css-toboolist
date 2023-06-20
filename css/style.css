@@ -5,7 +5,7 @@
 }
 
 body{
-    background-color: rgb(213, 213, 213);
+    background-color: rgb(236, 235, 235);
 }
 #main_header{
     height: 10vh;
@@ -16,4 +16,32 @@ body{
     margin-top: 1.5vh;
     height: 7vh;
     margin-left: 1vw;
+}
+
+/* main container */
+.container{
+    width: 60vw;
+    margin:10vh auto;
+    min-height: 60px;
+    border-radius: 5px;
+    background-color: white;
+    /* padding:0 3% ; */
+}
+
+/* 1st section */
+.selected_background{
+    background-color: rgb(36, 149, 248);
+}
+.button_div{
+    min-height: 8vh;
+    padding:0 4% ;
+}
+.button{
+    display: inline-block;
+    padding: 4px 8px;
+    margin-right: 2px;
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 4vh;
+    margin-top: 2vh;
 }
