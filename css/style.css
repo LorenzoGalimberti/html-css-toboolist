@@ -3,3 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: rgb(213, 213, 213);
+}
+#main_header{
+    height: 10vh;
+    background-color: white;
+    
+}
+#logo{
+    margin-top: 1.5vh;
+    height: 7vh;
+    margin-left: 1vw;
+}
